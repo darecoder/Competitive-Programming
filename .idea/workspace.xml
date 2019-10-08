@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="" />
+    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/ArrayListIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BdayParadox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityQueueIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/QueueIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StackIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StringIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort/Intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BinarySearch.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Rq1muIq1zb9dFE4bwyQpjaG85Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,13 +50,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.Hashing.Intro" />
+  <component name="RunManager" selected="Application.PriorityQueueIntro">
+    <configuration name="ArrayListIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.ArrayListIntro" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.IntroToCollections.Hashing.*" />
+          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BdayParadox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.BdayParadox" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityQueueIntro" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.QueueIntro" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.StackIntro" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,7 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Intro" />
+        <item itemvalue="Application.PriorityQueueIntro" />
+        <item itemvalue="Application.QueueIntro" />
+        <item itemvalue="Application.StackIntro" />
+        <item itemvalue="Application.ArrayListIntro" />
+        <item itemvalue="Application.BdayParadox" />
       </list>
     </recent_temporary>
   </component>
@@ -64,10 +137,25 @@
       <option name="presentableId" value="Default" />
       <updated>1570379974386</updated>
       <workItem from="1570379977785" duration="1565000" />
+      <workItem from="1570423714942" duration="2998000" />
+      <workItem from="1570465225105" duration="3447000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
