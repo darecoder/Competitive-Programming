@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/ArrayListIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BdayParadox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityQueueIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/QueueIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StackIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StringIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort/Intro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityCar.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADA-Lab-Work" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueueIntro">
+  <component name="RunManager" selected="Application.PriorityCar">
     <configuration name="ArrayListIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.ArrayListIntro" />
       <module name="CompetitiveProgramming" />
@@ -64,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BdayParadox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.BdayParadox" />
+    <configuration name="PriorityCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityCar" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityCar" />
         <item itemvalue="Application.PriorityQueueIntro" />
         <item itemvalue="Application.QueueIntro" />
         <item itemvalue="Application.StackIntro" />
         <item itemvalue="Application.ArrayListIntro" />
-        <item itemvalue="Application.BdayParadox" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +132,13 @@
       <workItem from="1570379977785" duration="1565000" />
       <workItem from="1570423714942" duration="2998000" />
       <workItem from="1570465225105" duration="3447000" />
+      <workItem from="1570545710584" duration="5031000" />
+      <workItem from="1570624927838" duration="139000" />
+      <workItem from="1570806351166" duration="1301000" />
+      <workItem from="1570849953586" duration="2750000" />
+      <workItem from="1570939494457" duration="64000" />
+      <workItem from="1570953077116" duration="673000" />
+      <workItem from="1570972388931" duration="937000" />
     </task>
     <servers />
   </component>
