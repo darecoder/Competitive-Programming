@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/CountBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADA-Lab-Work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,20 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityCar">
-    <configuration name="ArrayListIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.ArrayListIntro" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UniqueNumberII">
     <configuration name="PriorityCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityCar" />
       <module name="CompetitiveProgramming" />
@@ -96,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.StackIntro" />
+    <configuration name="UniqueNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.UniqueNumberII" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueNumberIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.UniqueNumberIII" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueNumberII" />
+        <item itemvalue="Application.UniqueNumberIII" />
         <item itemvalue="Application.PriorityCar" />
         <item itemvalue="Application.PriorityQueueIntro" />
         <item itemvalue="Application.QueueIntro" />
-        <item itemvalue="Application.StackIntro" />
-        <item itemvalue="Application.ArrayListIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +139,8 @@
       <workItem from="1570939494457" duration="64000" />
       <workItem from="1570953077116" duration="673000" />
       <workItem from="1570972388931" duration="937000" />
+      <workItem from="1570983993891" duration="4662000" />
+      <workItem from="1571058140142" duration="64000" />
     </task>
     <servers />
   </component>
