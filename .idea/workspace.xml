@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,6 +138,8 @@
       <workItem from="1570972388931" duration="937000" />
       <workItem from="1570983993891" duration="4662000" />
       <workItem from="1571058140142" duration="64000" />
+      <workItem from="1571067119359" duration="641000" />
+      <workItem from="1571308139860" duration="33000" />
     </task>
     <servers />
   </component>
