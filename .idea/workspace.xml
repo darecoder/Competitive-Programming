@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Recursion/Fibonacci.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniqueNumberII">
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Recursion.Fibonacci" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PriorityCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityCar" />
       <module name="CompetitiveProgramming" />
@@ -56,19 +69,6 @@
     </configuration>
     <configuration name="PriorityQueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityQueueIntro" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.QueueIntro" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.UniqueNumberII" />
         <item itemvalue="Application.UniqueNumberIII" />
         <item itemvalue="Application.PriorityCar" />
         <item itemvalue="Application.PriorityQueueIntro" />
-        <item itemvalue="Application.QueueIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +140,7 @@
       <workItem from="1571058140142" duration="64000" />
       <workItem from="1571067119359" duration="641000" />
       <workItem from="1571308139860" duration="33000" />
+      <workItem from="1571510384551" duration="314000" />
     </task>
     <servers />
   </component>
