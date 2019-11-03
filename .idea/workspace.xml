@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CB/StringMatching/KnuthMorris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/StringMatching/NaiveApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/StringMatching/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.NaiveApproach">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.Recursion.Fibonacci" />
       <module name="CompetitiveProgramming" />
@@ -54,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityCar" />
+    <configuration name="NaiveApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.StringMatching.NaiveApproach" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.IntroToCollections.*" />
+          <option name="PATTERN" value="com.CB.StringMatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityQueueIntro" />
+    <configuration name="PriorityCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.IntroToCollections.PriorityCar" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NaiveApproach" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.UniqueNumberII" />
         <item itemvalue="Application.UniqueNumberIII" />
         <item itemvalue="Application.PriorityCar" />
-        <item itemvalue="Application.PriorityQueueIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +146,8 @@
       <workItem from="1571308139860" duration="33000" />
       <workItem from="1571510384551" duration="441000" />
       <workItem from="1571577107951" duration="12000" />
+      <workItem from="1572794306375" duration="341000" />
+      <workItem from="1572794671347" duration="1133000" />
     </task>
     <servers />
   </component>
