@@ -2,28 +2,30 @@ package com.CB.FenwickTree;
 
 import java.util.Scanner;
 
-public class PrefixMax {
-    public static int[] nums = new int[10000];
+public class InversionCount {
     public static int[] BIT = new int[10000];
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
+
         int n = s.nextInt();
+        int[] nums = new int[n+1];
         for (int i = 1; i <= n; i++) {
             nums[i] = s.nextInt();
-            update(i,nums[i], n);
         }
 
-        int q = s.nextInt();
-        while (q-- > 0){
-            int ind = s.nextInt();
-            System.out.println("Max till " + ind + " : " + query(ind));
+        int ans = 0;
+        for (int i = n; i >= 1; i--) {
+            ans += query(nums[i] - 1);
+            update(nums[i], 1, n);
         }
+
+        System.out.println(ans);
     }
 
-    public static void update(int i, int val, int n){
+    public static void update(int i, int inc, int n){
         while (i <= n){
-            BIT[i] = Math.max(BIT[i], val);
+            BIT[i] += inc;
             i += (i & (-i));
         }
     }
@@ -31,7 +33,7 @@ public class PrefixMax {
     public static int query(int i){
         int ans = 0;
         while (i > 0){
-            ans = Math.max(BIT[i], ans);
+            ans += BIT[i];
             i -= (i & (-i));
         }
 

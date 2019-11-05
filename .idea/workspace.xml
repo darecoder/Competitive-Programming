@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CB/FenwickTree/InversionCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/FenwickTree/RangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/FenwickTree/RangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/FenwickTree/PrefixMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/FenwickTree/PrefixMax.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RangeSum">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Recursion.Fibonacci" />
+  <component name="RunManager" selected="Application.InversionCount">
+    <configuration name="InversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.InversionCount" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Recursion.*" />
+          <option name="PATTERN" value="com.CB.FenwickTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RabinKarp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.StringMatching.RabinKarp" />
+    <configuration name="PrefixMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.PrefixMax" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.StringMatching.*" />
+          <option name="PATTERN" value="com.CB.FenwickTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InversionCount" />
+        <item itemvalue="Application.PrefixMax" />
         <item itemvalue="Application.RangeSum" />
         <item itemvalue="Application.KnuthMorris" />
         <item itemvalue="Application.NaiveApproach" />
-        <item itemvalue="Application.RabinKarp" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +149,7 @@
       <workItem from="1572794306375" duration="341000" />
       <workItem from="1572794671347" duration="3971000" />
       <workItem from="1572840597307" duration="2529000" />
-      <workItem from="1572929641739" duration="1063000" />
+      <workItem from="1572929641739" duration="5137000" />
     </task>
     <servers />
   </component>
