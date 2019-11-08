@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" afterDir="false" />
-    </list>
+    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +145,7 @@
       <workItem from="1572840597307" duration="2529000" />
       <workItem from="1572929641739" duration="6487000" />
       <workItem from="1572956337165" duration="2603000" />
+      <workItem from="1573014349449" duration="699000" />
     </task>
     <servers />
   </component>
