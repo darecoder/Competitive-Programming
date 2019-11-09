@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="" />
+    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/Rough.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADA-Lab-Work" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Rough">
+  <component name="RunManager" selected="Application.KnuthMorris">
     <configuration name="InversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.InversionCount" />
       <module name="CompetitiveProgramming" />
@@ -106,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KnuthMorris" />
         <item itemvalue="Application.Rough" />
         <item itemvalue="Application.InversionCount" />
         <item itemvalue="Application.PrefixMax" />
         <item itemvalue="Application.RangeSum" />
-        <item itemvalue="Application.KnuthMorris" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +149,10 @@
       <workItem from="1572929641739" duration="6487000" />
       <workItem from="1572956337165" duration="2603000" />
       <workItem from="1573014349449" duration="699000" />
+      <workItem from="1573186176604" duration="1078000" />
+      <workItem from="1573198270927" duration="841000" />
+      <workItem from="1573218421002" duration="655000" />
+      <workItem from="1573273115681" duration="3953000" />
     </task>
     <servers />
   </component>
