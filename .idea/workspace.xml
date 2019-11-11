@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/Rough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADA-Lab-Work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KnuthMorris">
+  <component name="RunManager" selected="Application.RangeMin">
     <configuration name="InversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.InversionCount" />
       <module name="CompetitiveProgramming" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.RangeSum" />
+    <configuration name="RangeMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.SegmentTree.RangeMin" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.FenwickTree.*" />
+          <option name="PATTERN" value="com.CB.SegmentTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RangeMin" />
         <item itemvalue="Application.KnuthMorris" />
         <item itemvalue="Application.Rough" />
         <item itemvalue="Application.InversionCount" />
         <item itemvalue="Application.PrefixMax" />
-        <item itemvalue="Application.RangeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,10 @@
       <workItem from="1573186176604" duration="1078000" />
       <workItem from="1573198270927" duration="841000" />
       <workItem from="1573218421002" duration="655000" />
-      <workItem from="1573273115681" duration="3953000" />
+      <workItem from="1573273115681" duration="3992000" />
+      <workItem from="1573316013864" duration="728000" />
+      <workItem from="1573359798874" duration="88000" />
+      <workItem from="1573476385412" duration="3818000" />
     </task>
     <servers />
   </component>
