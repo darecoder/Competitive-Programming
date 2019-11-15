@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/AdvancedNQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/NQueensBitsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/TavvasSaddas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" afterDir="false" />
-    </list>
+    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +155,7 @@
       <workItem from="1573476385412" duration="6943000" />
       <workItem from="1573706357040" duration="5265000" />
       <workItem from="1573738697547" duration="2552000" />
-      <workItem from="1573775842724" duration="4273000" />
+      <workItem from="1573775842724" duration="4545000" />
     </task>
     <servers />
   </component>
