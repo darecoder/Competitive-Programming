@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/AdvancedNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/NQueensBitsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/TavvasSaddas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RangeMin">
-    <configuration name="InversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.InversionCount" />
+  <component name="RunManager" selected="Application.AdvancedNQueens">
+    <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvanceCountNQueens" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.FenwickTree.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnuthMorris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.StringMatching.KnuthMorris" />
+    <configuration name="AdvancedNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvancedNQueens" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.StringMatching.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.FenwickTree.PrefixMax" />
+    <configuration name="NQueensBitsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.NQueensBitsets" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.FenwickTree.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.StringMatching.Rough" />
+    <configuration name="TavvasSaddas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.TavvasSaddas" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.StringMatching.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedNQueens" />
+        <item itemvalue="Application.AdvanceCountNQueens" />
+        <item itemvalue="Application.NQueensBitsets" />
+        <item itemvalue="Application.TavvasSaddas" />
         <item itemvalue="Application.RangeMin" />
-        <item itemvalue="Application.KnuthMorris" />
-        <item itemvalue="Application.Rough" />
-        <item itemvalue="Application.InversionCount" />
-        <item itemvalue="Application.PrefixMax" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +158,10 @@
       <workItem from="1573273115681" duration="3992000" />
       <workItem from="1573316013864" duration="728000" />
       <workItem from="1573359798874" duration="88000" />
-      <workItem from="1573476385412" duration="3818000" />
+      <workItem from="1573476385412" duration="6943000" />
+      <workItem from="1573706357040" duration="5265000" />
+      <workItem from="1573738697547" duration="2552000" />
+      <workItem from="1573775842724" duration="4273000" />
     </task>
     <servers />
   </component>
