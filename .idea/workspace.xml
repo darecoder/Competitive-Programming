@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="" />
+    <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/FastExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/FastExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/MatrixExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/MatrixExponentiation.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdvancedNQueens">
+  <component name="RunManager" selected="Application.FastExponentiation">
     <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvanceCountNQueens" />
       <module name="CompetitiveProgramming" />
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueensBitsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.NQueensBitsets" />
+    <configuration name="FastExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Mathematics.FastExponentiation" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
+          <option name="PATTERN" value="com.CB.Mathematics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.SegmentTree.RangeMin" />
+    <configuration name="NQueensBitsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.NQueensBitsets" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.SegmentTree.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FastExponentiation" />
         <item itemvalue="Application.AdvancedNQueens" />
         <item itemvalue="Application.AdvanceCountNQueens" />
         <item itemvalue="Application.NQueensBitsets" />
         <item itemvalue="Application.TavvasSaddas" />
-        <item itemvalue="Application.RangeMin" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +159,8 @@
       <workItem from="1573476385412" duration="6943000" />
       <workItem from="1573706357040" duration="5265000" />
       <workItem from="1573738697547" duration="2552000" />
-      <workItem from="1573775842724" duration="4545000" />
+      <workItem from="1573775842724" duration="5437000" />
+      <workItem from="1573821942769" duration="1038000" />
     </task>
     <servers />
   </component>
