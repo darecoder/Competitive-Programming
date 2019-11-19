@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/NKLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/SEQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/FastExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/FastExponentiation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/MatrixExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/MatrixExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/MatrixExponentiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/MatrixExponentiation.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FastExponentiation">
+  <component name="RunManager" selected="Application.SEQ">
     <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvanceCountNQueens" />
       <module name="CompetitiveProgramming" />
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TavvasSaddas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.TavvasSaddas" />
+    <configuration name="SEQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Mathematics.SEQ" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
+          <option name="PATTERN" value="com.CB.Mathematics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SEQ" />
         <item itemvalue="Application.FastExponentiation" />
         <item itemvalue="Application.AdvancedNQueens" />
         <item itemvalue="Application.AdvanceCountNQueens" />
         <item itemvalue="Application.NQueensBitsets" />
-        <item itemvalue="Application.TavvasSaddas" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,10 @@
       <workItem from="1573706357040" duration="5265000" />
       <workItem from="1573738697547" duration="2552000" />
       <workItem from="1573775842724" duration="5437000" />
-      <workItem from="1573821942769" duration="1038000" />
+      <workItem from="1573821942769" duration="1196000" />
+      <workItem from="1573876830832" duration="25000" />
+      <workItem from="1574057287368" duration="1894000" />
+      <workItem from="1574146150847" duration="7407000" />
     </task>
     <servers />
   </component>
