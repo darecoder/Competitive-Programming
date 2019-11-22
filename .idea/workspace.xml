@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/NKLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CB/Mathematics/SEQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/MatrixExponentiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/MatrixExponentiation.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Crux-DS-Algo-In-Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,6 +162,8 @@
       <workItem from="1573876830832" duration="25000" />
       <workItem from="1574057287368" duration="1894000" />
       <workItem from="1574146150847" duration="7407000" />
+      <workItem from="1574163124876" duration="48000" />
+      <workItem from="1574461608451" duration="44000" />
     </task>
     <servers />
   </component>
