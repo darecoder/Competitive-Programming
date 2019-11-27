@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/MatrixExponentiation.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSumEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/MatrixExponentiation.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SEQ">
-    <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvanceCountNQueens" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubsetSumEasy">
     <configuration name="AdvancedNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.AdvancedNQueens" />
       <module name="CompetitiveProgramming" />
@@ -80,19 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueensBitsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.NQueensBitsets" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SEQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.Mathematics.SEQ" />
       <module name="CompetitiveProgramming" />
@@ -106,13 +83,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.SubsetSum" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetSumEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.SubsetSumEasy" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubsetSumEasy" />
+        <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.SEQ" />
         <item itemvalue="Application.FastExponentiation" />
         <item itemvalue="Application.AdvancedNQueens" />
-        <item itemvalue="Application.AdvanceCountNQueens" />
-        <item itemvalue="Application.NQueensBitsets" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +168,8 @@
       <workItem from="1574163124876" duration="48000" />
       <workItem from="1574461608451" duration="44000" />
       <workItem from="1574464983165" duration="98000" />
+      <workItem from="1574679974187" duration="2090000" />
+      <workItem from="1574740289260" duration="4064000" />
     </task>
     <servers />
   </component>
