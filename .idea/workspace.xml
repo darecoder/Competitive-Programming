@@ -2,10 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/DVLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/META-INF/CompetitiveProgramming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvanceCountNQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvanceCountNQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvancedNQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvancedNQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/CountBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/CountBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/NQueensBitsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/NQueensBitsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/TavvasSaddas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/TavvasSaddas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberIII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/DVLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSumEasy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/InversionCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/InversionCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/RangeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/RangeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/ArrayListIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/ArrayListIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BdayParadox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BdayParadox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityQueueIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityQueueIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/QueueIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/QueueIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StackIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StackIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StringIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StringIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/FastExponentiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/FastExponentiation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/NKLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/NKLadder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/SEQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/SEQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Recursion/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Recursion/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/KnuthMorris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/KnuthMorris.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/NaiveApproach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/NaiveApproach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/RabinKarp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/RabinKarp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSumEasy.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,25 +55,19 @@
   </component>
   <component name="ProjectId" id="1Rq1muIq1zb9dFE4bwyQpjaG85Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DVLL">
+  <component name="RunManager" selected="Application.SubsetSum">
     <configuration name="DVLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.DVLL" />
       <module name="CompetitiveProgramming" />
@@ -109,13 +135,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.DVLL" />
         <item itemvalue="Application.SubsetSumEasy" />
-        <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.SEQ" />
         <item itemvalue="Application.FastExponentiation" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -172,7 +210,10 @@
       <workItem from="1574967426687" duration="20000" />
       <workItem from="1575036320780" duration="23000" />
       <workItem from="1575047594922" duration="819000" />
-      <workItem from="1575120762341" duration="547000" />
+      <workItem from="1575120762341" duration="743000" />
+      <workItem from="1575448453480" duration="332000" />
+      <workItem from="1575527519623" duration="3981000" />
+      <workItem from="1575618245985" duration="1536000" />
     </task>
     <servers />
   </component>
@@ -191,5 +232,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575448478516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1575448478516" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575534391805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575534391805" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1575619891725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575619891725" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1575619891724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575619891724" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1575619891724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575619891724" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1575619891724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575619891724" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1575448453549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575448453549" />
   </component>
 </project>

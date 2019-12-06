@@ -5,14 +5,16 @@ import java.util.Scanner;
 public class SubsetSum {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int[] nums = {32, 14, 4, 12, 45, 24};
-        int sum = 19;
+        int[] nums = {3, 6, 2};      //Set of numbers given
+        int sum = 10;           // Given sum
 
-//        System.out.println(subsetSum(nums, nums.length-1, sum));
-        System.out.println(subsetSumDP(nums,sum));
+        boolean[][] mem = new boolean[nums.length+1][sum+1];
+//        System.out.println(subsetSum(nums,nums.length-1, sum));
+        System.out.println(subsetSumDP(nums,sum,mem));
     }
 
     public static boolean subsetSum(int[] nums, int n, int sum) {
+        // Base condition
         if(sum == 0){
             return true;
         }
@@ -21,27 +23,28 @@ public class SubsetSum {
             return false;
         }
 
+        // Boundary condition
         if(sum < nums[n]){
-            return subsetSum(nums,n-1,sum);
+            return subsetSum(nums, n+1, sum);
         }
-
-        return subsetSum(nums,n-1,sum) || subsetSum(nums,n-1, sum - nums[n]);
+        // Main Recursive call
+        return subsetSum(nums, n-1, sum-nums[n]) || subsetSum(nums, n-1, sum);
     }
 
-    public static boolean subsetSumDP(int[] nums, int sum){
-        boolean[][] ans = new boolean[nums.length+1][sum+1];
-        for (int i = 1; i <= nums.length; i++) {
+    public static boolean subsetSumDP(int[] nums, int sum, boolean[][] mem) {
+        for (int i = 0; i <= nums.length; i++) {
             for (int j = 0; j <= sum; j++) {
                 if(j == 0){
-                    ans[i][j] = true;
-                } else if (j < nums[i-1]){
-                    ans[i][j] = ans[i-1][j];
+                    mem[i][j] = true;
+                }else if(i == 0){
+                    mem[i][j] = false;
+                }else if(j < nums[i-1]){
+                    mem[i][j] = mem[i-1][j];
                 }else {
-                    ans[i][j] = ans[i-1][j] || ans[i-1][j - nums[i-1]];
+                    mem[i][j] = mem[i-1][j] || mem[i-1][j-nums[i-1]];
                 }
             }
         }
-
-        return ans[nums.length][sum];
+        return mem[nums.length][sum];
     }
 }
