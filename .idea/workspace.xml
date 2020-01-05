@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/OptimalBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/OptimalBST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaOnlineCourse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.OptimalBST">
     <configuration name="DVLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -183,7 +182,8 @@
       <workItem from="1575618245985" duration="4230000" />
       <workItem from="1575897324991" duration="14000" />
       <workItem from="1576827846698" duration="928000" />
-      <workItem from="1576906984474" duration="195000" />
+      <workItem from="1576906984474" duration="235000" />
+      <workItem from="1576910391752" duration="1261000" />
     </task>
     <servers />
   </component>
