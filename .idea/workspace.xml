@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/InclusionExclusion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +32,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
   </component>
-  <component name="RunManager" selected="Application.OptimalBST">
+  <component name="RunManager" selected="Application.InclusionExclusion">
     <configuration name="DVLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.DVLL" />
       <module name="CompetitiveProgramming" />
@@ -47,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptimalBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.OptimalBST" />
+    <configuration name="InclusionExclusion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.InclusionExclusion" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.CB.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SEQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Mathematics.SEQ" />
+    <configuration name="OptimalBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.OptimalBST" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Mathematics.*" />
+          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InclusionExclusion" />
         <item itemvalue="Application.OptimalBST" />
         <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.DVLL" />
         <item itemvalue="Application.SubsetSumEasy" />
-        <item itemvalue="Application.SEQ" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +185,11 @@
       <workItem from="1576827846698" duration="928000" />
       <workItem from="1576906984474" duration="235000" />
       <workItem from="1576910391752" duration="1261000" />
+      <workItem from="1578199336036" duration="250000" />
+      <workItem from="1578414410834" duration="603000" />
+      <workItem from="1578566884369" duration="4032000" />
+      <workItem from="1578816327692" duration="4831000" />
+      <workItem from="1578900401485" duration="79000" />
     </task>
     <servers />
   </component>
@@ -208,30 +214,32 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1575448478516" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1576907015827">
+    <state x="549" y="178" key="FileChooserDialogImpl" timestamp="1578900478754">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578583708756" />
+    <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578900478754" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578583711060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576907015827" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1576837866551">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578583711060" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578583711060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576837866551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1576837866551">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578583711060" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578583711060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576837866551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1576837866549">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578583711060" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578583711060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576837866549" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1576837866551">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576837866551" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1575897325463">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578583711060" />
+    <state x="477" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1578900443521">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575897325463" />
+    <state x="477" y="251" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578900443521" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575621809408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
