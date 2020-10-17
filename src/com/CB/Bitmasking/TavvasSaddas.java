@@ -12,7 +12,7 @@ public class TavvasSaddas {
 
         for (int i = len-1; i >= 0; i--) {
             int pos = len - i - 1;
-            if(num.charAt(i) == '7'){
+             if(num.charAt(i) == '7'){
                 ans += (1 << pos);
             }
         }

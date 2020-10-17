@@ -13,13 +13,20 @@ public class RangeMin {
 
         buildTree(nums,tree,0,n-1,1);
 
-        int test = s.nextInt();
-        while (test-- > 0){
-            int l = s.nextInt();
-            int r = s.nextInt();
+//        int test = s.nextInt();
+//        while (test-- > 0){
+//            int l = s.nextInt();
+//            int r = s.nextInt();
+//
+//            System.out.println(query(tree, 0, n-1,l,r,1));
+//        }
+        System.out.println(query(tree, 0, n-1,0,6,1));
 
-            System.out.println(query(tree, 0, n-1,l,r,1));
-        }
+        update(tree, 1, 0, n-1, 1, -8);
+
+        System.out.println(query(tree, 0, n-1,2,4,1));
+        System.out.println(query(tree, 0, n-1,1,3,1));
+
     }
 
     public static void buildTree(int[] nums, Integer[] tree, int start, int end, int index){
@@ -52,5 +59,19 @@ public class RangeMin {
         int rightAns = query(tree,mid+1, te,qs,qe,2*index+1);
 
         return Math.min(leftAns, rightAns);
+    }
+
+    public static void update(Integer[] tree, int index, int ts, int te, int ind, int value) {
+        if (ind < ts || ind > te) {
+            return;
+        }
+        if (ts == te) {
+            tree[index] = value;
+            return;
+        }
+        int mid = (ts+te)/2;
+        update(tree, 2*index+1, mid+1,te, ind, value);
+        update(tree, 2*index, ts,mid, ind, value);
+        tree[index] = Math.min(tree[2*index], tree[2*index+1]);
     }
 }
