@@ -2,40 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/LexoPermute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/TugOfWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MatrixChainMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/ZeroOneKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FileCompression/HuffmanCodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvanceCountNQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvanceCountNQueens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvancedNQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvancedNQueens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/CountBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/CountBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/InclusionExclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/InclusionExclusion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/NQueensBitsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/NQueensBitsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/TavvasSaddas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/TavvasSaddas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/OptimalBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/OptimalBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/InversionCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/InversionCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/RangeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/RangeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/ArrayListIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/ArrayListIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BdayParadox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BdayParadox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityQueueIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityQueueIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/QueueIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/QueueIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StackIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StackIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StringIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StringIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/FastExponentiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/FastExponentiation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/NKLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/NKLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/SEQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/SEQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Recursion/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Recursion/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/KnuthMorris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/KnuthMorris.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/NaiveApproach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/NaiveApproach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/RabinKarp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/RabinKarp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/TavvasSaddas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/Bitmasking/TavvasSaddas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvanceCountNQueens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/AdvancedNQueens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/CountBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/InclusionExclusion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/NQueensBitsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/TavvasSaddas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Bitmasking/UniqueNumberIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/OptimalBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/DynamicProgramming/SubsetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/InversionCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/PrefixMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/FenwickTree/RangeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/ArrayListIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BdayParadox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/PriorityQueueIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/QueueIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StackIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/IntroToCollections/StringIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/FastExponentiation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/NKLadder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Mathematics/SEQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/Recursion/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/SegmentTree/RangeMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/KnuthMorris.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/NaiveApproach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/CB/StringMatching/RabinKarp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/AdvanceCountNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/AdvancedNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvancedNQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/CountBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/CountBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/InclusionExclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/NQueensBitsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/TavvasSaddas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/TavvasSaddas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Bitmasking/UniqueNumberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/OptimalBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/OptimalBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/DynamicProgramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/FenwickTree/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FenwickTree/InversionCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/FenwickTree/PrefixMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FenwickTree/PrefixMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/FenwickTree/RangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FenwickTree/RangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/ArrayListIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/ArrayListIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BdayParadox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/BdayParadox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/PriorityCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/PriorityQueueIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/PriorityQueueIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/QueueIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/QueueIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StackIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/StackIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/IntroToCollections/StringIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/IntroToCollections/StringIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/FastExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Mathematics/FastExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/NKLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Mathematics/NKLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Mathematics/SEQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Mathematics/SEQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/SegmentTree/RangeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SegmentTree/RangeMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/StringMatching/KnuthMorris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringMatching/KnuthMorris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/StringMatching/NaiveApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringMatching/NaiveApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/StringMatching/RabinKarp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringMatching/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Tries/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tries/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CB/Tries/MaxXorPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tries/MaxXorPair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,28 +102,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Online-Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.RangeMin">
-    <configuration name="InclusionExclusion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.InclusionExclusion" />
+  <component name="RunManager" selected="Application.DecimalToBinary">
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.DecimalToBinary" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptimalBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.OptimalBST" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.company.Bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="RangeMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.SegmentTree.RangeMin" />
+      <option name="MAIN_CLASS_NAME" value="com.company.SegmentTree.RangeMin" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.SegmentTree.*" />
+          <option name="PATTERN" value="com.company.SegmentTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +132,11 @@
       </method>
     </configuration>
     <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.DynamicProgramming.SubsetSum" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Backtracking.SubsetSum" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.company.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CB.Bitmasking.UniqueNumberII" />
+    <configuration name="TugOfWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Backtracking.TugOfWar" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CB.Bitmasking.*" />
+          <option name="PATTERN" value="com.company.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Backtracking.WordBreak" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RangeMin" />
-        <item itemvalue="Application.UniqueNumberII" />
-        <item itemvalue="Application.InclusionExclusion" />
-        <item itemvalue="Application.OptimalBST" />
+        <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.SubsetSum" />
+        <item itemvalue="Application.TugOfWar" />
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.RangeMin" />
       </list>
     </recent_temporary>
   </component>
@@ -239,27 +277,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="723" y="253" width="530" height="598" key="FileChooserDialogImpl" timestamp="1598202852389">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="723" y="253" width="530" height="598" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1598202852389" />
-    <state width="1785" height="249" key="GridCell.Tab.0.bottom" timestamp="1602517988792">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1785" height="249" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602517988792" />
-    <state width="1785" height="249" key="GridCell.Tab.0.center" timestamp="1602517988792">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1785" height="249" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602517988792" />
-    <state width="1785" height="249" key="GridCell.Tab.0.left" timestamp="1602517988792">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1785" height="249" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602517988792" />
-    <state width="1785" height="249" key="GridCell.Tab.0.right" timestamp="1602517988792">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1785" height="249" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602517988792" />
   </component>
 </project>
