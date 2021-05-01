@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SubsetSum {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int[] nums = {3, 6, 2};      //Set of numbers given
+        int[] nums = {3, 6, 2, 1};      //Set of numbers given
         int sum = 10;           // Given sum
 
         boolean[][] mem = new boolean[nums.length+1][sum+1];
