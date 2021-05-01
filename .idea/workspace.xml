@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/CryptoArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Backtracking/TheKnightTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/EditDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
