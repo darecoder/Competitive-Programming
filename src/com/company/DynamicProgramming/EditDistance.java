@@ -36,7 +36,6 @@ public class EditDistance {
         if(slen == 0){
             return flen;
         }
-
         if(mem[flen][slen] != null) {
             return mem[flen][slen];
         }else{
