@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/WildcardPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +35,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.WildcardPattern">
-    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.DecimalToBinary" />
+  <component name="RunManager" selected="Application.LongIncSubseq">
+    <configuration name="LongIncSubseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.LongIncSubseq" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.MaximumSubarraySum" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,19 +68,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Backtracking.SubsetSum" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongIncSubseq" />
+        <item itemvalue="Application.MaximumSubarraySum" />
         <item itemvalue="Application.WildcardPattern" />
         <item itemvalue="Application.SubsetSum (1)" />
         <item itemvalue="Application.TheKnightTour" />
-        <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.SubsetSum" />
       </list>
     </recent_temporary>
   </component>
