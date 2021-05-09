@@ -5,9 +5,10 @@ import java.util.Arrays;
 public class LongIncSubseq {
     public static void main(String[] args) {
         int[] nums = {10, 22, 9, 33, 21, 50, 41, 60, 80};
-        System.out.println(longIncSubseq(nums));
+        System.out.println(longIncSubseqDP(nums));
     }
-    public static int longIncSubseq(int[] nums) {
+
+    public static int longIncSubseqDP(int[] nums) {
         int[] mem = new int[nums.length];
         int i, j, max = 0;
 
