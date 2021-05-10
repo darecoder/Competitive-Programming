@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MatrixChainMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MatrixChainMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/WildcardPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/WildcardPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

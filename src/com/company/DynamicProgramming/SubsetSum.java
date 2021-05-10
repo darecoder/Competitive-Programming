@@ -14,20 +14,15 @@ public class SubsetSum {
     }
 
     public static boolean subsetSum(int[] nums, int n, int sum) {
-        // Base condition
         if(sum == 0){
             return true;
         }
-
         if(sum > 0 && n < 0){
             return false;
         }
-
-        // Boundary condition
         if(sum < nums[n]){
             return subsetSum(nums, n+1, sum);
         }
-        // Main Recursive call
         return subsetSum(nums, n-1, sum-nums[n]) || subsetSum(nums, n-1, sum);
     }
 
