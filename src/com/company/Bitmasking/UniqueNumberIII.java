@@ -10,8 +10,6 @@ public class UniqueNumberIII {
         for (int i = 0; i < n; i++) {
             nums[i] = s.nextInt();
         }
-        System.out.println();
-
         int[] arr = new int[32];
         for (int i = 0; i < n; i++) {
             int[] arr2 = bitset(nums[i]);
@@ -19,7 +17,6 @@ public class UniqueNumberIII {
                 arr[j] += arr2[j];
             }
         }
-
         int number = 0;
         for (int i = 0; i < 32; i++) {
             arr[i] = arr[i] % 3;
