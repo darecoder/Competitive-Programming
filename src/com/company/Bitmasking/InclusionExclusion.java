@@ -17,13 +17,11 @@ public class InclusionExclusion {
             for (long i = 1; i <= subsets; i++) {
                 long denom = 1;
                 long setBits = countSetBits(i);
-
                 for (int j = 0; j <= 7; j++) {
                     if ((i & (1 << j)) == 1){
                         denom = denom * primes[j];
                     }
                 }
-
                 if ((setBits & 1) == 1){
                     ans += (n / denom);
                 }else {
@@ -32,14 +30,14 @@ public class InclusionExclusion {
             }
             System.out.println(ans);
         }
-
     }
 
     public static long countSetBits(long n) {
-        if (n == 0)
+        if (n == 0) {
             return 0;
-        else
+        } else {
             // if last bit set add 1 else add 0
             return (n & 1) + countSetBits(n >> 1);
+        }
     }
 }

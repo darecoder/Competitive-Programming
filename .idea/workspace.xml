@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/SubsetsBitmasking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/KnapsackUnbounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongPalindromicSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongRepeatingSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaxSquareAll1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming/TillingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/IncredibleHulk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/UniqueNumberII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/UniqueNumberII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/UniqueNumberIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/UniqueNumberIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/LongIncSubseq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/LongIncSubseq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/MatrixChainMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/MatrixChainMultiplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/MaximumSubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/MaximumSubarraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/SubsetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/SubsetSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/WildcardPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/DynamicProgramming/WildcardPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/InclusionExclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/InclusionExclusion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/NQueensBitsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/NQueensBitsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/SubsetsBitmasking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/SubsetsBitmasking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +40,33 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SubsetsBitmasking">
+  <component name="RunManager" selected="Application.AdvanceCountNQueens">
+    <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.AdvanceCountNQueens" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.AdvancedNQueens" />
+      <module name="CompetitiveProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KnapsackUnbounded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.KnapsackUnbounded" />
       <module name="CompetitiveProgramming" />
@@ -75,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.MaximumSubarraySum" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SubsetsBitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.SubsetsBitmasking" />
       <module name="CompetitiveProgramming" />
@@ -101,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.WildcardPattern" />
-      <module name="CompetitiveProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvanceCountNQueens" />
+        <item itemvalue="Application.AdvancedNQueens" />
         <item itemvalue="Application.SubsetsBitmasking" />
         <item itemvalue="Application.KnapsackUnbounded" />
         <item itemvalue="Application.LongIncSubseq" />
-        <item itemvalue="Application.MaximumSubarraySum" />
-        <item itemvalue="Application.WildcardPattern" />
       </list>
     </recent_temporary>
   </component>

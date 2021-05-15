@@ -4,13 +4,11 @@ import java.util.Scanner;
 
 public class AdvanceCountNQueens {
     public static int DONE;
-
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         DONE = ((1<<n) - 1);
         int ans = 0;
-
         ans = solve(0,0,0, ans, 0);
         System.out.println(ans);
     }
