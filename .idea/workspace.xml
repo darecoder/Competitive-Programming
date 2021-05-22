@@ -2,14 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/IncredibleHulk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/PainterPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/PainterPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/SearchInSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/ShipPackageWithinDdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_08_SlidingWindow/MaxSumKEltsCornerElts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_09_PigeonHolePrinciple/MaximumGapLeetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_11_Greedy/MinArrowsToBurstBalloons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/InclusionExclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/InclusionExclusion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/AdvanceCountNQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/AdvanceCountNQueens.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/NQueensBitsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/NQueensBitsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/SubsetsBitmasking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/com/company/Bitmasking/SubsetsBitmasking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/LexoPermute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/LexoPermute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/TheKnightTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/TheKnightTour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/TugOfWar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/TugOfWar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Backtracking/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvanceCountNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/AdvanceCountNQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/AdvancedNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/AdvancedNQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/CountBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/CountBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/DecimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/DecimalToBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/InclusionExclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/InclusionExclusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/IncredibleHulk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/IncredibleHulk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/NQueensBitsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/NQueensBitsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/SubsetsBitmasking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/SubsetsBitmasking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/TavvasSaddas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/TavvasSaddas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/UniqueNumberII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bitmasking/UniqueNumberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/UniqueNumberIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/DiceBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/DiceBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/EggDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/EggDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/KnapsackUnbounded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/KnapsackUnbounded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongCommonSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/LongCommonSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongIncSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/LongIncSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongPalindromicSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/LongPalindromicSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/LongRepeatingSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/LongRepeatingSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MatrixChainMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/MatrixChainMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaxSquareAll1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/MaxSquareAll1s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/MaximumSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/OptimalBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/OptimalBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/TillingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/TillingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/WildcardPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/WildcardPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming/ZeroOneKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_05_DynamicProgramming/ZeroOneKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/ArrayListIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/ArrayListIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/BdayParadox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/BdayParadox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/PriorityCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/PriorityCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/PriorityQueueIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/PriorityQueueIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/QueueIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/QueueIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/StackIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/StackIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IntroToCollections/StringIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_01_IntroToCollections/StringIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Mathematics/FastExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_10_Mathematics/FastExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Mathematics/NKLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_10_Mathematics/NKLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Mathematics/SEQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_10_Mathematics/SEQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +91,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.AdvanceCountNQueens">
-    <configuration name="AdvanceCountNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.AdvanceCountNQueens" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.DivideConquer" />
+      <recent name="com.company.DynamicProgramming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SearchInSortedRotatedArray">
+    <configuration name="MaximumGapLeetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company._09_PigeonHolePrinciple.MaximumGapLeetcode" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="PATTERN" value="com.company._09_PigeonHolePrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdvancedNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.AdvancedNQueens" />
+    <configuration name="MinArrowsToBurstBalloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company._11_Greedy.MinArrowsToBurstBalloons" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="PATTERN" value="com.company._11_Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnapsackUnbounded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.KnapsackUnbounded" />
+    <configuration name="PainterPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company._06_DivideConquer.PainterPartition" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.company._06_DivideConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongIncSubseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DynamicProgramming.LongIncSubseq" />
+    <configuration name="SearchInSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company._06_DivideConquer.SearchInSortedRotatedArray" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.company._06_DivideConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubsetsBitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Bitmasking.SubsetsBitmasking" />
+    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company._07_TwoPointers.SquaresOfSortedArray" />
       <module name="CompetitiveProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Bitmasking.*" />
+          <option name="PATTERN" value="com.company._07_TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdvanceCountNQueens" />
-        <item itemvalue="Application.AdvancedNQueens" />
-        <item itemvalue="Application.SubsetsBitmasking" />
-        <item itemvalue="Application.KnapsackUnbounded" />
-        <item itemvalue="Application.LongIncSubseq" />
+        <item itemvalue="Application.SearchInSortedRotatedArray" />
+        <item itemvalue="Application.PainterPartition" />
+        <item itemvalue="Application.MaximumGapLeetcode" />
+        <item itemvalue="Application.SquaresOfSortedArray" />
+        <item itemvalue="Application.MinArrowsToBurstBalloons" />
       </list>
     </recent_temporary>
   </component>
