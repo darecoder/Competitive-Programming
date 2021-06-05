@@ -1,4 +1,4 @@
-# Competitive Programming Problems for Interview Preparation
+## Competitive Programming Problems for Interview Preparation
 
   1. [Introduction to Collections](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_01_IntroToCollections)
   2. [BitMasking](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_02_Bitmasking)
