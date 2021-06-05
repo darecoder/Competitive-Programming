@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eece1af9-7225-4a0b-a66d-62d03c457066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/DivideTwoIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/Power_X_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/BagOfTokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/PartitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/_11_Greedy/MinParenthesesAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/NthMagicalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_02_Bitmasking/UniqueI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/GetMaximumGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/ItsConfidential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/LongPalindromeSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/StringRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_03_Recursion/SumTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_04_Backtracking/CryptoArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/PalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_08_SlidingWindow/MaxMinKSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/_08_SlidingWindow/SumKSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/ShipPackageWithinDdays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_06_DivideConquer/ShipPackageWithinDdays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/SquaresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/_07_TwoPointers/SquaresOfSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +48,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/_08_SlidingWindow" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/_03_Recursion" />
+      <recent name="$PROJECT_DIR$/src/com/company/_02_Bitmasking" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company._02_Bitmasking" />
       <recent name="com.company._17_GraphTheory" />
       <recent name="com.company.DivideConquer" />
       <recent name="com.company.DynamicProgramming" />
