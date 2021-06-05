@@ -1,14 +1,19 @@
 # Competitive-Programming-CB
 
-  - Introduction to Collections
-  - BitMasking
-  - Recursion
-  - Backtracking
-  - Dynamic Programming
-  - Mathematics
-  - String Matching
-  - Trie
-  - Segment Tree
-  - Fenwick Tree
-  - Graph Theory
-  - Game Theory
+  1. [Introduction to Collections](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_01_IntroToCollections)
+  2. [BitMasking](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_02_Bitmasking)
+  3. [Recursion](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_03_Recursion)
+  4. [Backtracking](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_04_Backtracking)
+  5. [Dynamic Programming](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_05_DynamicProgramming)
+  6. [Divide & Conquer](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_06_DivideConquer)
+  7. [Two Pointers](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_07_TwoPointers)
+  8. [Sliding Window](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_08_SlidingWindow)
+  9. [Pigeonhole Principle](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_09_PigeonHolePrinciple)
+  10. [Mathematics](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_10_Mathematics)
+  11. [Greedy](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_11_Greedy)
+  12. [String Matching](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_12_StringMatching)
+  13. [Segment Tree](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_13_SegmentTree)
+  14. [Fenwick Tree](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_14_FenwickTree)
+  15. [Trie](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_15_Tries)
+  16. [File Compression](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_16_FileCompression)
+  17. [Graph Theory](https://github.com/darecoder/Competitive-Programming/tree/master/src/com/company/_17_GraphTheory)
