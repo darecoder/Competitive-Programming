@@ -1,16 +1,10 @@
 package com.company._13_SegmentTree;
 
-import java.util.Scanner;
-
 public class RangeMin {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-
         int[] nums = {1, 3, 2, -5, 6, 4};
         int n = nums.length;
-
         Integer[] tree = new Integer[4 * n + 1];
-
         buildTree(nums,tree,0,n-1,1);
 
 //        int test = s.nextInt();
