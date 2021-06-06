@@ -42,7 +42,7 @@ public class CryptoArithmetic {
                 if (stringValue(s1, mapping) + stringValue(s2, mapping) == stringValue(s3, mapping)) {
                     for (int i = 0; i < 26; i++) {
                         if (mapping[i] != -1) {
-                            System.out.println((char)(i + 'A') + '=' + mapping[i] + "  ");
+                            System.out.print((char)(i + 'A') + '=' + mapping[i] + "  ");
                         }
                     }
                     System.out.println();
