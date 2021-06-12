@@ -68,4 +68,18 @@ public class RangeMin {
         update(tree, 2*index, ts,mid, ind, value);
         tree[index] = Math.min(tree[2*index], tree[2*index+1]);
     }
+
+    public static void updateRange(Integer[] tree, int queryStart, int queryEnd, int ts, int te, int nodeIndex, int value) {
+        if (queryEnd < ts || queryStart > te) {
+            return;
+        }
+        if (ts == te) {
+            tree[nodeIndex] += value;
+            return;
+        }
+        int mid = (ts+te)/2;
+        updateRange(tree, queryStart, queryEnd,  ts,mid, 2*nodeIndex,value);
+        updateRange(tree, queryStart,queryEnd, mid+1,te, 2*nodeIndex+1,value);
+        tree[nodeIndex] = Math.min(tree[2*nodeIndex], tree[2*nodeIndex+1]);
+    }
 }
