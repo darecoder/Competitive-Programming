@@ -21,8 +21,7 @@ public class KnuthMorris {
             while (j >= 0 && pat.charAt(i) != pat.charAt(j)){
                 j = reset[j];
             }
-            i++;
-            j++;
+            i++; j++;
             reset[i] = j;
         }
     }
@@ -34,8 +33,7 @@ public class KnuthMorris {
             while (j >= 0 && str.charAt(i) != pat.charAt(j)){
                 j = reset[j];
             }
-            i++;
-            j++;
+            i++; j++;
             if(j == pat.length()){
                 System.out.print(i-j + " ");
                 j = reset[j];

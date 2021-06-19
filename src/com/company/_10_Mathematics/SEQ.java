@@ -2,6 +2,8 @@ package com.company._10_Mathematics;
 
 import java.util.Scanner;
 
+// https://www.spoj.com/problems/SEQ/
+
 public class SEQ {
     public static long MOD = 1000000000;
     public static int k;
